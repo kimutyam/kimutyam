@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 - 2021-12-12 [データ構造を踏まえてIDを設計しよう](https://kakehashi-dev.hatenablog.com/entry/2021/12/12/080000) 
 - 2017-02-21 [単一責任の原則(SRP)についての見解と方法論](https://blog.flinters.co.jp/entry/2017/02/21/164127)
 
-### 資格
+### 😼 資格
 
 - Certified Scrum Master
