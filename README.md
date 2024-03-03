@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 ### 🔗 メディア
 
+- https://zenn.dev/kimutyam
 - https://kimutyam.medium.com/
 - https://speakerdeck.com/kimutyam
 
