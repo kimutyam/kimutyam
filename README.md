@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 ### 🧑🏻‍💼 略歴
 
 - 2021年~ カケハシ
-  - 医療品発注・管理最適化領域の新規事業の立ち上げ (テックリード)
-  - プラットフォームドメインチーム/データ基盤チーム (アーキテクト)
-  - 顧客データ基盤のData as a Productの立ち上げ (アーキテクト)
   - 開発組織全体の技術戦略を推進(技術戦略室)
+  - 顧客データ基盤のData as a Productの立ち上げ (アーキテクト)
+  - プラットフォームドメインチーム/データ基盤チーム (アーキテクト)
+  - 医療品発注・管理最適化領域の新規事業の立ち上げ (テックリード)
 - 2018年~ エフ・コード 
   - 開発組織の再編とプロダクトのリニューアルを担当  (VPoE)
   - CDP(Customer Data Platform)の開発を主導 (VPoE)
 - 2012年~ セプテーニ(以降分社化。現、Flinters)
-  - ソーシャルゲーム、SNS、広告配信サービスの開発
   - データ基盤事業立ち上げ
+  - ソーシャルゲーム、SNS、広告配信サービスの開発
 
 ### 🔗 メディア
 
@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 
 ### 🐶 その他(今までの勤め先でのブログポスト)
 
+- 2025-02-17 [データ資産をシームレスに伝達するためのイベント駆動型アーキテクチャ](https://speakerdeck.com/kakehashi/event-driven-architecture)
 - 2024-12-24 [技術戦略策定のリアル：カケハシの開発組織が歩んだ軌跡と、戦略の策定プロセス](https://kakehashi-dev.hatenablog.com/entry/2024/12/24/090000)
 - 2024-08-22 [そのデータ連携、ホントにそれでいいの？ 〜データモデル分析の重要性を説く〜](https://speakerdeck.com/kakehashi/how-to-analyse-data-integration)
 - 2024-05-15 [ドメインイベントを伝達するためのモデリング技法](https://kakehashi-dev.hatenablog.com/entry/2024/05/15/090000)
