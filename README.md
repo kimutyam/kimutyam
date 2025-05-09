@@ -41,6 +41,10 @@ Here are some ideas to get you started:
   - データ基盤事業立ち上げ
   - ソーシャルゲーム、SNS、広告配信サービスの開発
 
+### 📖 書籍レビュー
+
+- [データプラットフォーム技術バイブル ～要素技術の解説から実践的な構築法、利活用まで～](https://book.mynavi.jp/ec/products/detail/id=147013)
+
 ### 🔗 メディア
 
 - https://zenn.dev/kimutyam
