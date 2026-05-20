@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 ### 🐶 その他(今までの勤め先でのブログポスト)
 
+- 2026-05-20 [ETL 変換処理の設計原則 — PySpark を例に](https://kakehashi-dev.hatenablog.com/entry/2026/05/20/093000)
+- 2026-05-20 [「もし、○○な仕様のサービスを立ち上げるなら、あなたはどんなアーキテクチャを組みますか？」著名企業のエンジニアに聞いた ~ 急成長中のBtoC ECサイト運営企業にデータ分析基盤をゼロから構築するなら~ ](https://findy-tools.io/articles/architecture-ogiri-2/191)
 - 2025-02-17 [データ資産をシームレスに伝達するためのイベント駆動型アーキテクチャ](https://speakerdeck.com/kakehashi/event-driven-architecture)
 - 2024-12-24 [技術戦略策定のリアル：カケハシの開発組織が歩んだ軌跡と、戦略の策定プロセス](https://kakehashi-dev.hatenablog.com/entry/2024/12/24/090000)
 - 2024-08-22 [そのデータ連携、ホントにそれでいいの？ 〜データモデル分析の重要性を説く〜](https://speakerdeck.com/kakehashi/how-to-analyse-data-integration)
