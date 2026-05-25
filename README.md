@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 ### 🧑🏻‍💼 略歴
 
 - 2021年~ カケハシ
-  - 開発組織全体の技術戦略を推進(技術戦略室)
+  - Data Reliability Engineering (テックリード)
+  - 顧客への配信基盤チームのイネーブルメント (プロダクトマネジメント・テックリード)
+  - 開発組織全体の技術戦略を推進 (技術戦略室 / Chief Architect)
   - 顧客データ基盤のData as a Productの立ち上げ (アーキテクト)
   - プラットフォームドメインチーム/データ基盤チーム (アーキテクト)
   - 医療品発注・管理最適化領域の新規事業の立ち上げ (テックリード)
@@ -43,7 +45,8 @@ Here are some ideas to get you started:
 
 ### 📖 書籍レビュー
 
-- [データプラットフォーム技術バイブル ～要素技術の解説から実践的な構築法、利活用まで～](https://book.mynavi.jp/ec/products/detail/id=147013)
+- 執筆中: バックエンドTypeScriptの設計本 (Comming Soon...)
+- レビュー参加: [データプラットフォーム技術バイブル ～要素技術の解説から実践的な構築法、利活用まで～](https://book.mynavi.jp/ec/products/detail/id=147013)
 
 ### 🔗 メディア
 
