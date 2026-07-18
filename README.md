@@ -72,3 +72,4 @@ Here are some ideas to get you started:
 ### 😼 資格
 
 - Certified Scrum Master
+
