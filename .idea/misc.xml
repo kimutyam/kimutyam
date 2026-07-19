@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/sepori/pyxis/ct/backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/sepori/pyxis/s3downloader" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/akka-issue" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/amazon-kinesis-learning-4s" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/ca-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/ddd-clean-architecture-sample" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/cdp-sample/scio" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/code-mc-cdp-poc" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/code-mc-console-backend" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/code-mc-dataflow" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/code-mc-stream" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/code-mc-tag-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/code-mc-tag-prototype" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/code-mc-tag-stream" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/f-code/forte-log-aggregate" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/hello_sbt" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/play-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/play-scala-starter-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/s99" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/tutorial-cat" value="PREVIEW" />
+        <entry key="$USER_HOME$/workdir/use-case-implemented-by-contT" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customVMPath" />
+  </component>
+</project>
