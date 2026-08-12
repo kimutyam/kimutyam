@@ -16,18 +16,29 @@ Here are some ideas to get you started:
 ## 🧑🏻‍💼 略歴
 
 - 2021年~ カケハシ
-  - Data Reliability Engineering (プロダクトマネジメント・テックリード)
-  - 顧客への配信基盤チームのイネーブルメント (プロダクトマネジメント・テックリード)
-  - 開発組織全体の技術戦略を推進 (技術戦略室 / Chief Architect)
-  - 顧客データ基盤のData as a Productの立ち上げ (アーキテクト)
-  - プラットフォームドメインチーム/データ基盤チーム (アーキテクト)
-  - 医療品発注・管理最適化領域の新規事業の立ち上げ (テックリード)
+  - Data Reliability Engineering (Project Manager、Tech Lead)
+  - 医療版CCCM の再始動 (Tech PdM、Tech Lead)
+  - プロダクトの統合に向けたリアーキテクチャの支援 (Architect)
+  - 技術戦略の策定と推進 (Chief Architect)
+  - 医療版CCCMの構築 (Tech Lead、Tech PdM)
+  - PaaSの構築 (Tech Lead、PdM)
+  - 医療品発注・管理最適化領域の新規事業の立ち上げ (Tech Lead、Tech PdM)
 - 2018年~ エフ・コード
-  - 開発組織の再編とプロダクトのリニューアルを担当  (VPoE)
-  - CDP (Customer Data Platform) の開発を主導 (VPoE)
-- 2012年~ セプテーニ (以降分社化。現、FLINTERS)
-  - データ基盤事業立ち上げ
-  - ソーシャルゲーム、SNS、広告配信サービスの開発
+  - Customer Data Platformの立ち上げ  (VPoE)
+  - 開発組織運営 (VPoE)
+  - WebSDKのリアーキテクティング (Developer)
+  - 動的クリエイティブ配信ツールのプロトタイプ開発 (Tech Lead)
+  - クリエイティブ制作支援ツールのディレクション (Development Director)
+  - ストリーミングデータ基盤のプロトタイプ開発 (Developer)
+- 2014年~ 株式会社セプテーニ・オリジナル
+  - データ分析基盤プロジェクトの立ち上げ (Architect)
+  - 広告配信最適化ツール開発 (Tech Lead)
+  - 広告入稿ツール開発 (Tech Lead)
+  - Web漫画の開発 (Developer)
+  - ファッションSNSの開発 (Tech Lead)
+- 2012年~ 株式会社セプテーニ
+  - モバゲー向けソーシャルゲーム開発 (Developer)
+  - GREE向けソーシャルゲーム開発 (Developer)
 
 SaaS事業を支えるためのプラットフォーム基盤・データ利活用のための分析基盤の企画・設計・開発など、幅広い領域で経験を積んできました。  
 現場で手を動かす時は、テックリードとPdMを兼務することが多く、探索的なモデリングを通じてプロダクトビジョンを具体化し、コードに落とし込むことを得意としています。  
